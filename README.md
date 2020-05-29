@@ -1,2 +1,2 @@
 # mcguirecooper.github.io
-Personal Website
+Personal website containing experiences, skills, and hobbies
